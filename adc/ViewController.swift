@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     var arrayNumbers = [Int](1...3)
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        // Do any additional setup after loading the view, typically from a nib.asdasdasdadsaas
     }
 
     override func didReceiveMemoryWarning() {
